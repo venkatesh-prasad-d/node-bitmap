@@ -26,14 +26,14 @@ In the i-th line for each test case, 1<=i<=n, there should be written m integers
 separated by single spaces, where f(i,j) is the distance from the pixel (i,j) to the nearest white
 pixel. Example:
 
-Input:
+Input:<br>
 1<br>
 3 4<br>
 0001<br>
 0011<br>
 0110<br>
 
-Output:
+Output:<br>
 3 2 1 0<br>
 2 1 0 0<br>
 1 0 0 1<br>
