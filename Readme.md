@@ -27,16 +27,16 @@ separated by single spaces, where f(i,j) is the distance from the pixel (i,j) to
 pixel. Example:
 
 Input:
-1
-3 4
-0001
-0011
-0110
+1<br>
+3 4<br>
+0001<br>
+0011<br>
+0110<br>
 
 Output:
-3 2 1 0
-2 1 0 0
-1 0 0 1
+3 2 1 0<br>
+2 1 0 0<br>
+1 0 0 1<br>
 
 # Usage
 
